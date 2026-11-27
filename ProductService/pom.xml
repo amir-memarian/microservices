@@ -64,14 +64,6 @@
             <optional>true</optional>
         </dependency>
 
-        <!-- ==================== Spring Cloud ==================== -->
-
-        <!-- کلاینت Eureka برای ثبت‌نام در رجیستری -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>
-
         <!-- ==================== تست ==================== -->
 
         <dependency>
