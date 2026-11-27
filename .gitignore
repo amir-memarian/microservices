@@ -1,9 +1,7 @@
 HELP.md
 ProductService/
 ConfigService/
-ProductService/
-ProductService/
-ProductService/
+ServiceRegistry/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
